@@ -12,4 +12,51 @@
 
 #### The project involves creating a pipeline where datasets would be developed and put on the Zooniverse site (open source), which astronomers, researchers, or students can use for their research work. There are 10s of thousands of research papers that need to be digitized in this way. 
 
-### Some screenshots of the work done are also attached above.
+### Some screenshots of the work done are also attached below:
+
+1. Image Extraction from Research Papers:
+
+![Screenshot](Image_Extraction_from_Research_Papers_Img_1.png)
+
+2. Image Manipulation Techniques:
+
+![Screnshot](Image_Manipulation_Techniques_Img_2.png)
+
+3. Implementing Artificial Neural Network (ANN) on our Image Dataset:
+
+![Screenshot](Implementing_ANN_Img_3.png)
+
+4. ANN Model Evaluation and Metrics:
+
+![Screenshot](ANN_Model_Evaluation_and_Metrics_Img_4.png)
+
+5. Classes detection using Convolutional Neural Networks (CNNs):
+
+![Screenshot](Classes_detection_using_CNNs_Img_5.png)
+
+6. Features Created Using Meta's Deep Learning Algorithm, Detectron2:
+
+![Screenshot](Features_created_using_Detectron2_Img_6.png)
+
+7. CNN Model Results:
+
+![Screenshot](CNN_Model_Results_Img_7.png)
+
+8. Calculating Precision and Recall on our Good and Bad Detection Classes:
+
+![Screenshot](Calculating_Precision_and_Recall_Img_8.png)
+
+9. Misclassified Images Examples:
+
+![Screenshot](Misclassified_Images_Examples_Img_9.png)
+
+
+
+
+
+
+
+
+
+
+
