@@ -12,6 +12,10 @@
 
 #### The project involves creating a pipeline where datasets would be developed and put on the Zooniverse site (open source), which astronomers, researchers, or students can use for their research work. There are 10s of thousands of research papers that need to be digitized in this way. 
 
+### Code File for Classification on Good and Bad Classes:
+
+[View Jupyter Notebook](Good_vs_Bad_Clf_via_ResNet50_0.9_iou_Git.ipynb)
+
 ### Some screenshots of the work done are also attached below:
 
 1. Image Extraction from Research Papers:
