@@ -14,45 +14,45 @@
 
 ## Code File for Classification on Good and Bad Classes:
 
-[View Jupyter Notebook](Good_vs_Bad_Clf_via_ResNet50_0.9_iou_Git.ipynb)
+[Binary Classification Using ResNet50 - Jupyter Notebook](Good_vs_Bad_Clf_via_ResNet50_0.9_iou_Git.ipynb)
 
 ### Some screenshots of the work done are also attached below:
 
 1. Image Extraction from Research Papers:
 
-![Screenshot](Image_Extraction_from_Research_Papers_Img_1.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/Image_Extraction_from_Research_Papers_Img_1.png)
 
 2. Image Manipulation Techniques:
 
-![Screnshot](Image_Manipulation_Techniques_Img_2.png)
+![Screnshot](Binary_Classification_using_ResNet50/Output_Images/Image_Manipulation_Techniques_Img_2.png)
 
 3. Implementing Artificial Neural Network (ANN) on our Image Dataset:
 
-![Screenshot](Implementing_ANN_Img_3.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/Implementing_ANN_Img_3.png)
 
 4. ANN Model Evaluation and Metrics:
 
-![Screenshot](ANN_Model_Evaluation_and_Metrics_Img_4.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/ANN_Model_Evaluation_and_Metrics_Img_4.png)
 
 5. Classes detection using Convolutional Neural Networks (CNNs):
 
-![Screenshot](Classes_detection_using_CNNs_Img_5.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/Classes_detection_using_CNNs_Img_5.png)
 
 6. Features Created Using Meta's Deep Learning Algorithm, Detectron2:
 
-![Screenshot](Features_created_using_Detectron2_Img_6.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/Features_created_using_Detectron2_Img_6.png)
 
 7. CNN Model Results:
 
-![Screenshot](CNN_Model_Results_Img_7.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/CNN_Model_Results_Img_7.png)
 
 8. Calculating Precision and Recall on our Good and Bad Detection Classes:
 
-![Screenshot](Calculating_Precision_and_Recall_Img_8.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/Calculating_Precision_and_Recall_Img_8.png)
 
 9. Misclassified Images Examples:
 
-![Screenshot](Misclassified_Images_Examples_Img_9.png)
+![Screenshot](Binary_Classification_using_ResNet50/Output_Images/Misclassified_Images_Examples_Img_9.png)
 
 
 
