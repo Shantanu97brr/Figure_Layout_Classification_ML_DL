@@ -14,7 +14,7 @@
 
 ## Code File for Classification on Good and Bad Classes:
 
-[Binary Classification Using ResNet50 - Jupyter Notebook](Good_vs_Bad_Clf_via_ResNet50_0.9_iou_Git.ipynb)
+[Binary Classification Using ResNet50 - Jupyter Notebook](Binary_Classification_using_ResNet50/Good_vs_Bad_Clf_via_ResNet50_0.9_iou_Git.ipynb)
 
 ### Some screenshots of the work done are also attached below:
 
